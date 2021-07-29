@@ -1,0 +1,1 @@
+# crypto_forecast_trader
